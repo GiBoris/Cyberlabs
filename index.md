@@ -105,11 +105,9 @@ end
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
+<dd>Boris Gibadatov</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>Russia</dd>
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
