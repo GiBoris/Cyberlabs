@@ -23,11 +23,11 @@ structured documentation, focused on fundamentals required for entry-level SOC r
 
 ## Hands-On Labs
 
-### Cybersecurity Labs
+### A. Cybersecurity Labs
 
 UNDER CONSTRUCTION
 
-### IT Fundamentals Labs
+### B. IT Fundamentals Labs
 A dedicated repository documenting my **IT and system administration foundations**
 that support my transition into cybersecurity.
 
