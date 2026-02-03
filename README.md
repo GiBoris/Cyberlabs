@@ -1,14 +1,15 @@
-# Boris — Cybersecurity Portfolio
+This repository hosts my public cybersecurity portfolio.
 
-This repository powers my GitHub Pages profile and documents my
-hands-on cybersecurity learning and labs.
+It serves as an entry point for recruiters and hiring teams and links to my
+hands-on technical labs, which document foundational IT and system administration
+skills required for entry-level cybersecurity roles.
 
-## Focus Areas
-- SOC / Blue Team fundamentals
-- SIEM (Splunk)
-- Network traffic analysis
-- Windows security events
-- Incident response workflows
+Lab repositories:
+A. Cybersecurity-labs
+IN PROGRESS
 
-## Website
-🔗 https://giboris.github.io/Profile/
+B. IT-Fundamentals-Labs
+  https://github.com/GiBoris/IT-Fundamentals-Labs
+
+All labs are performed in isolated, non-production environments and are documented
+with a focus on clarity, reproducibility, and real-world relevance.
