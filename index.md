@@ -1,85 +1,63 @@
 ---
 layout: default
----
-
+title: Boris — Cybersecurity Portfolio
 ---
 
 # Boris — Cybersecurity Portfolio (Entry-Level SOC / Blue Team)
 
-I’m building job-ready cybersecurity skills through hands-on labs and clear documentation.
-This site is my public portfolio for recruiters and hiring teams.
+This page is my public cybersecurity portfolio for recruiters and hiring teams.
 
-**Core focus:** SIEM (Splunk), Windows security events, network traffic analysis, incident response workflows.
-
----
-
-## Featured Projects
-
-### 1) SOC Investigation Case Studies (Splunk + Windows Logs)
-**Goal:** Detect and investigate suspicious authentication behavior (brute force, password spraying, impossible travel).  
-**Tools:** Splunk, Windows Event Logs, Sysmon (optional)  
-**What I deliver:** detection logic, SPL queries, investigation notes, screenshots  
-**Evidence:** *(add link to folder/repo and 1–2 screenshots)*
-
-**Link:** [SOC Investigations (repo/folder)](./)  
+I am building **job-ready cybersecurity skills** through hands-on labs with clear,
+structured documentation, focused on fundamentals required for entry-level SOC roles.
 
 ---
 
-### 2) Network Traffic Analysis (PCAP → Findings)
-**Goal:** Identify suspicious DNS / HTTP patterns and document findings like a real analyst.  
-**Tools:** Wireshark, PCAPs, basic threat intel checks  
-**What I deliver:** indicators, timeline, conclusions, recommended mitigations  
+## Core Focus Areas
 
-**Link:** [Network Analysis (repo/folder)](./)
-
----
-
-### 3) Incident Response Playbooks (Entry-Level)
-**Goal:** Build simple, practical playbooks (triage → containment → eradication → recovery).  
-**Tools:** Markdown playbooks, checklists, basic tooling  
-**What I deliver:** repeatable steps, decision points, evidence to collect  
-
-**Link:** [IR Playbooks (repo/folder)](./)
+- SOC / Blue Team fundamentals
+- Windows security events and system administration
+- PowerShell scripting and automation basics
+- Foundations for SIEM-based investigations (Splunk)
 
 ---
 
-## Splunk Commands (separate repo)
-A growing “quick reference” of basic **Splunk SPL commands**, fields, and common SOC queries.
+## Hands-On Labs
 
-**Link:** [Splunk Commands Repository](https://github.com/GiBoris/Splunk-Commands)
-> If the repo doesn’t exist yet, create it later and keep this link as-is (or update the name).
+### Cybersecurity Labs
 
----
+UNDER CONSTRUCTION
 
-## Skills Snapshot
+### IT Fundamentals Labs
+A dedicated repository documenting my **IT and system administration foundations**
+that support my transition into cybersecurity.
 
-**Blue Team / SOC**
-- Alert triage, investigation notes, escalation-ready summaries
-- Windows authentication & security event analysis
-- Basic detection engineering mindset (reduce noise, validate signals)
+This includes:
+- Windows Server administration
+- PowerShell scripting
+- Practical command-line and system configuration skills
 
-**Technical**
-- Splunk SPL (search, stats, timechart, eval, rex, lookup basics)
-- PCAP analysis (filters, protocol behaviors, anomalies)
-- Windows logs (Security log, Sysmon where applicable)
+👉 **Repository:**  
+[IT-Fundamentals-Labs](https://github.com/GiBoris/IT-Fundamentals-Labs)
 
----
-
-## Lab Standards (what reviewers can expect)
-- Clear objective and scope for each lab
-- Steps to reproduce
-- Screenshots or output evidence
-- “What I learned” + “What I’d do in production”
+👉 **GitHub Pages site:**  
+https://giboris.github.io/IT-Fundamentals-Labs/
 
 ---
 
-## About This Portfolio
-This portfolio is intentionally practical and targeted at an **entry-level cybersecurity role**.
+## Portfolio Philosophy
 
-**Disclaimer:** All labs use simulated, test, or anonymized data. No credentials, sensitive data, or proprietary logs are included.
+Each lab follows a consistent structure:
+- Clear objective and scope
+- Reproducible steps
+- Screenshots or command output as evidence
+- Short summary of learning outcomes
+
+All work is performed in **isolated, non-production environments**.
 
 ---
 
 ## Contact
-- LinkedIn: [bgibadatov](https://www.linkedin.com/in/bgibadatov/)
-- GitHub: [GiBoris](https://github.com/GiBoris)
+
+- LinkedIn: https://www.linkedin.com/in/bgibadatov/
+- GitHub: https://github.com/GiBoris
+
