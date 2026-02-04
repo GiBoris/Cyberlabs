@@ -40,7 +40,7 @@ This includes:
 [IT-Fundamentals-Labs](https://github.com/GiBoris/IT-Fundamentals-Labs)
 
 👉 **GitHub Pages site:**  
-https://giboris.github.io/IT-Fundamentals-Labs/
+[Open the site](https://giboris.github.io/IT-Fundamentals-Labs/)
 
 ---
 
