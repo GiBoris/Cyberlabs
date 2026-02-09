@@ -3,56 +3,62 @@ layout: default
 title: Boris — Cybersecurity Portfolio
 ---
 
-# Boris — Cybersecurity Portfolio (Entry-Level SOC / Blue Team)
+# Boris — Cybersecurity Portfolio 🛡️
 
-This page is my public cybersecurity portfolio for recruiters and hiring teams.
+This site is my public portfolio for **entry-level SOC / Cybersecurity Analyst** roles.  
+It links to hands-on labs demonstrating practical skills in **Splunk (SIEM)**, **log parsing**, **Windows administration**, and **PowerShell automation**.
 
-I am building **job-ready cybersecurity skills** through hands-on labs with clear,
-structured documentation, focused on fundamentals required for entry-level SOC roles.
+---
+
+## Lab Repositories
+
+### A) Cybersecurity Labs (Splunk / SIEM)
+Practical Splunk labs focused on ingestion, parsing, field extraction, and investigation workflows.
+
+- **Repository:** https://github.com/GiBoris/Cybersecurity-labs  
+- **Site:** https://giboris.github.io/Cybersecurity-labs/
+
+Labs:
+- **Lab 01 — Splunk Fundamentals**  
+  [View Lab →](https://giboris.github.io/Cybersecurity-labs/Lab-01-Splunk-Fundamentals/)
+- **Lab 02 — Splunk Parsing & Log Analysis (TryHackMe – FixIt)**  
+  [View Lab →](https://giboris.github.io/Cybersecurity-labs/Lab-02-Splunk-parcing-and-log-analysis/)
+
+---
+
+### B) IT Fundamentals Labs (Windows / PowerShell Foundations)
+System administration and scripting fundamentals that support SOC operations and incident response.
+
+- **Repository:** https://github.com/GiBoris/IT-Fundamentals-Labs  
+- **Site:** https://giboris.github.io/IT-Fundamentals-Labs/
+
+Labs:
+- **Lab 01 — Windows Server Administration**  
+  [View Lab →](https://giboris.github.io/IT-Fundamentals-Labs/Lab-1-Windows-Server-Administration/)
+- **Lab 02 — PowerShell Scripting**  
+  [View Lab →](https://giboris.github.io/IT-Fundamentals-Labs/Lab-2-PowerShell-Scripting/)
 
 ---
 
 ## Core Focus Areas
 
 - SOC / Blue Team fundamentals
-- Windows security events and system administration
+- SIEM-based investigations (Splunk)
+- Log ingestion, parsing, and field extraction
+- Windows administration foundations
 - PowerShell scripting and automation basics
-- Foundations for SIEM-based investigations (Splunk)
-
----
-
-## Hands-On Labs
-
-### A. Cybersecurity Labs
-
-UNDER CONSTRUCTION
-
-### B. IT Fundamentals Labs
-A dedicated repository documenting my **IT and system administration foundations**
-that support my transition into cybersecurity.
-
-This includes:
-- Windows Server administration
-- PowerShell scripting
-- Practical command-line and system configuration skills
-
-👉 **Repository:**  
-[IT-Fundamentals-Labs](https://github.com/GiBoris/IT-Fundamentals-Labs)
-
-👉 **GitHub Pages site:**  
-[Open the site](https://giboris.github.io/IT-Fundamentals-Labs/)
 
 ---
 
 ## Portfolio Philosophy
 
-Each lab follows a consistent structure:
-- Clear objective and scope
-- Reproducible steps
-- Screenshots or command output as evidence
-- Short summary of learning outcomes
+Each lab is documented with:
+- clear objective and scope;
+- reproducible steps;
+- screenshots as evidence;
+- concise learning outcomes.
 
-All work is performed in **isolated, non-production environments**.
+All labs are performed in **isolated, non-production environments** using **simulated data**.
 
 ---
 
