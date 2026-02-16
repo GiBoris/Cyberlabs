@@ -24,7 +24,7 @@ Labs:
 - **Lab 02 — Splunk Parsing & Log Analysis (TryHackMe – FixIt)**  
   [View Lab →](https://giboris.github.io/Cybersecurity-labs/Lab-02-Splunk-parcing-and-log-analysis/)
 - **Lab 03 — ELK Installation & Web Attack Investigation**  
-[View Lab →](https://giboris.github.io/Cybersecurity-labs/Lab-03-ELK-installation-and-investigation/)
+  [View Lab →](https://giboris.github.io/Cybersecurity-labs/Lab-03-ELK-installation-and-investigation/)
 
 ---
 
